@@ -79,5 +79,5 @@ Code,Category,Key,Description,Vietnamese,Dutch,French,Is Residential,Heating Set
 11010,GENERAL,[GEN] SAS,buffer zone between indoors and outdoors,,,,No,16,30,heated,None,0,No,No,No,0,0,0,0,,1,0,100,2,2,1,None,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,1,1,1,1,1,1,1,1,1,1,1,2,3,1,1,1
 11011,GENERAL,[GEN] Waiting Room,,,,,No,20,25,Heated and cooled,Watiting Room,1,Yes,No,No,0,0,0,0,,1,0,300,2,6,13,Living Room,0,50,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1
 11012,GENERAL,[GEN] First aid room,,,,,No,20,25,Heated and cooled,Treatment Rooms,5,Yes,No,No,0,0,0,0,,1,0,500,2,10,1,None,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,1,1,1,1,1,1,1,1,1,3,1,2,2,1,1,1
-0,NOT A SPACE,Adjacent Building,,,,,No,0,99,Unconditioned,,,,,,,,,,,1,0,0,0,0,1,None,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1
+0,NOT A SPACE,[OUT] Adjacent Building,,,,,No,0,99,Unconditioned,,,,,,,,,,,1,0,0,0,0,1,None,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
